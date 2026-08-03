@@ -21,15 +21,11 @@
 
 ## 👨‍💻 Hakkımda
 
-Kodlarla üretmeyi seven, sürekli yeni şeyler öğrenen bir **bilgisayar programcılığı öğrencisi** ve donanıma fısıldayan bir **teknoloji tutkunuyum**. Benim için yazılım yalnızca kod yazmaktan ibaret değil; gerçek problemlere çözüm üretmenin ve yaratıcı fikirleri çalışan projelere dönüştürmenin en keyifli yolu.
-
-Yazılım geliştirme, **otomasyon sistemleri** ve **yapay zekâ** entegrasyonları üzerine çalışıyorum. Yazılımsal vizyonumu fiziksel dünyaya entegre etmek için **C#**, **JavaScript**, **C++** ve **Arduino** ile projeler geliştiriyor; arbitraj botları, mikroişlemci sistemleri ve düşük seviyeli donanım müdahaleleriyle ilgileniyorum.
-
-> ⚡ *"Her satır kod, yeni bir şey öğrenmek ve sınırları zorlamak için atılmış bir adımdır."*
+Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım geliştirme, <b>otomasyon sistemleri</b> ve <b>yapay zekâ</b> üzerine çalışıyorum.<br><br><b>C#</b>, <b>JavaScript</b>, <b>C++</b> ve <b>Arduino</b> ile projeler geliştiriyor; <b>arbitraj botları</b>, mikroişlemci sistemleri ve düşük seviye donanım müdahaleleriyle ilgileniyorum.<br><br>Sürekli öğrenen ve üreten bir geliştiriciyim.
 
 <br/>
 
-## 💡 Uzmanlık Alanları & İlgi Odakları
+## 💡 İlgilendiğim Alanlar
 
 <div align="center">
 
