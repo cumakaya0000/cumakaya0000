@@ -19,7 +19,7 @@
 
 <br/>
 
-## 👨‍💻 Hakkımda
+
 
 Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım geliştirme, <b>otomasyon sistemleri</b> ve <b>yapay zekâ</b> üzerine çalışıyorum.<br><br><b>C#</b>, <b>JavaScript</b>, <b>C++</b> ve <b>Arduino</b> ile projeler geliştiriyor; <b>arbitraj botları</b>, mikroişlemci sistemleri ve düşük seviye donanım müdahaleleriyle ilgileniyorum.<br><br>Sürekli öğrenen ve üreten bir geliştiriciyim.
 
@@ -66,7 +66,7 @@ Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım gel
 | [📚 **Kişisel Öğrenme Portalı**](https://github.com/cumakaya0000/kisiselogrenmemataryeli) | Öğrenim materyalleri, ders notları, yazılım lisansları ve dosyaların yönetildiği kişisel kütüphane sistemi. | `ASP.NET Web Forms` `SQL Server` | [GitHub](https://github.com/cumakaya0000/kisiselogrenmemataryeli) |
 | [🤖 **Kripto Arbitraj Botu**](https://github.com/cumakaya0000) | Farklı borsalardaki anlık fiyat farklarını analiz ederek otomatik al-sat işlemlerini yürüten yüksek performanslı yazılım. | `Python` `APIs` `Binance` | [GitHub](https://github.com/cumakaya0000) |
 | [🔌 **Arduino & IoT Entegrasyonları**](https://github.com/cumakaya0000) | ESP32, OLED ekranlar ve çeşitli çevresel sensörlerle donanım seviyesinde veri okuma ve kontrol projeleri. | `C++` `Arduino` `ESP32` | [GitHub](https://github.com/cumakaya0000) |
-| [📊 **E-Ticaret Yönetim Paneli**](https://github.com/cumakaya0000) | Ürün yönetimi, sipariş takipleri ve gelişmiş veri görselleştirmeleri sunan modern admin paneli dashboard'u. | `React` `Node.js` `Chart.js` | [GitHub](https://github.com/cumakaya0000) |
+
 
 <br/>
 
