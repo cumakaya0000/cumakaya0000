@@ -62,12 +62,12 @@ Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım gel
 
 | Proje | Açıklama | Teknolojiler | Kod / Bağlantı |
 | :--- | :--- | :--- | :--- |
-| 📦 **Fakülte Rehberi** | Barkod destekli; fakülte içi kayıt, bölüm ve personel bilgi takibini kolaylaştıran kurumsal web uygulaması. | `ASP.NET` `SQL Server` | [GitHub](https://github.com/cumakaya0000) |
+| 📋 **İş Başvuru Portalı** | e-Devlet entegrasyonlu, SignalR real-time bildirimli ve aday başvuru/değerlendirme paneline sahip iş başvuru platformu. | `ASP.NET Core MVC` `SQL Server` `SignalR` | [GitHub](https://github.com/cumakaya0000/isbasvuruformu) |
+| 🍽️ **Restaurant CMS** | Modüler dinamik yönetici paneline ve esnek tema sistemine sahip restoran içerik yönetim yazılımı. | `ASP.NET Web Forms` `SQL Server` | [GitHub](https://github.com/cumakaya0000/restorant) |
+| 📚 **Kişisel Öğrenme Portalı** | Öğrenim materyalleri, ders notları, yazılım lisansları ve dosyaların yönetildiği kişisel kütüphane sistemi. | `ASP.NET Web Forms` `SQL Server` | [GitHub](https://github.com/cumakaya0000/kisiselogrenmemataryeli) |
 | 🤖 **Kripto Arbitraj Botu** | Farklı borsalardaki anlık fiyat farklarını analiz ederek otomatik al-sat işlemlerini yürüten yüksek performanslı yazılım. | `Python` `APIs` `Binance` | [GitHub](https://github.com/cumakaya0000) |
 | 🔌 **Arduino & IoT Entegrasyonları** | ESP32, OLED ekranlar ve çeşitli çevresel sensörlerle donanım seviyesinde veri okuma ve kontrol projeleri. | `C++` `Arduino` `ESP32` | [GitHub](https://github.com/cumakaya0000) |
 | 📊 **E-Ticaret Yönetim Paneli** | Ürün yönetimi, sipariş takipleri ve gelişmiş veri görselleştirmeleri sunan modern admin paneli dashboard'u. | `React` `Node.js` `Chart.js` | [GitHub](https://github.com/cumakaya0000) |
-| 🍽️ **Restaurant CMS** | Modüler dinamik yönetici paneline ve esnek tema sistemine sahip restoran içerik yönetim yazılımı. | `ASP.NET Web Forms` `SQL Server` | [GitHub](https://github.com/cumakaya0000) |
-| 💰 **Kişisel Finans Takip** | Gelir/giderleri kategorize ederek bütçe analizi ve raporlama sağlayan otomasyon sistemi. | `ASP.NET` `SQL Server` `Bootstrap` | [GitHub](https://github.com/cumakaya0000) |
 
 <br/>
 
@@ -90,4 +90,3 @@ Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım gel
 *“Code. Learn. Build. Repeat.” 🚀*
 
 </div>
-
