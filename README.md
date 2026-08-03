@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/3o7abDIK5Z5cV1CoZG/giphy.gif" width="100" alt="Robot Walking" />
+<img src="./robot.gif" width="100" alt="Robot Walking" />
 
 <br/>
 
