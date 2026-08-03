@@ -8,10 +8,6 @@
 
 <br/>
 
-<img src="./robot.gif" width="100" alt="Robot Walking" />
-
-<br/>
-
 <p dir="auto">
 <a href="https://cumakaya.com/hakkimda.html" rel="nofollow"><img src="https://img.shields.io/badge/Portfolio-cumakaya.com-0D0D1A?style=for-the-badge&logo=firefox&logoColor=8B5CF6" alt="Portfolio" style="max-width: 100%;"></a>
 <a href="https://github.com/cumakaya0000"><img src="https://img.shields.io/badge/GitHub-cumakaya0000-0D0D1A?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" style="max-width: 100%;"></a>
