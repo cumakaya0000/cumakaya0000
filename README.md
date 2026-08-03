@@ -27,11 +27,13 @@ Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım gel
 
 ## 💡 İlgilendiğim Alanlar
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_Web_Geliştirme-0D0D1A?style=for-the-badge&logo=dotnet&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Mobil_Uygulama_Geliştirme-0D0D1A?style=for-the-badge&logo=expo&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Masaüstü_Program_Geliştirme-0D0D1A?style=for-the-badge&logo=windows&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Bilgisayar_Donanımları_%26_IoT-0D0D1A?style=for-the-badge&logo=arduino&logoColor=8B5CF6" />
+</p>
 
-**FULL-STACK &nbsp;•&nbsp; WEB FORMS &nbsp;•&nbsp; MOBİL UYGULAMA &nbsp;•&nbsp; BİLGİSAYAR DONANIMLARI**
-
-</div>
 
 <br/>
 
