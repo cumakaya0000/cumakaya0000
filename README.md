@@ -29,10 +29,7 @@ Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım gel
 
 <div align="center">
 
-| 🤖 Yapay Zekâ & Botlar | ⚙️ Süreç Otomasyonu | 🌐 Full-Stack Web | 🔌 IoT & Arduino |
-| :---: | :---: | :---: | :---: |
-| Kripto Arbitraj Sistemleri | Mikroişlemci Entegrasyonu | ASP.NET Core & REST API | ESP32 & Akıllı Sensörler |
-| Veritabanı Mimarisi | Linux & Sunucu Yönetimi | Sistem Optimizasyonu | UI/UX & SEO |
+**FULL-STACK &nbsp;•&nbsp; WEB FORMS &nbsp;•&nbsp; MOBİL UYGULAMA &nbsp;•&nbsp; BİLGİSAYAR DONANIMLARI**
 
 </div>
 
