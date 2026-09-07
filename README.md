@@ -21,7 +21,7 @@
 
 
 
-Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım geliştirme, <b>otomasyon sistemleri</b> ve <b>yapay zekâ</b> üzerine çalışıyorum.<br><br><b>C#</b>, <b>JavaScript</b>, <b>C++</b> ve <b>Arduino</b> ile projeler geliştiriyor; <b>arbitraj botları</b>, mikroişlemci sistemleri ve düşük seviye donanıma müdahaleleriyle ilgileniyorum.<br><br>*“Her zaman yeni başlayan biriyim, bu yüzden öğrenmeye daha açığım.”*
+Ben <b>Cuma Kaya</b>, bilgisayar programcısıyım. Yazılım geliştirme, <b>otomasyon sistemleri</b> ve <b>yapay zekâ</b> üzerine çalışıyorum.<br><br><b>C#</b>, <b>JavaScript</b>, <b>C++</b> ve <b>Arduino</b> ile projeler geliştiriyor; <b>arbitraj botları</b>, mikroişlemci sistemleri ve düşük seviye donanıma müdahaleleriyle ilgileniyorum.<br><br>*“Her zaman yeni başlayan biriyim, bu yüzden öğrenmeye daha açığım.”*
 
 <br/>
 
