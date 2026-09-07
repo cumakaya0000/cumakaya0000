@@ -68,9 +68,12 @@ Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım gel
 | [🤖 **Kripto Arbitraj Botu**](https://github.com/cumakaya0000) | Farklı borsalardaki anlık fiyat farklarını analiz ederek otomatik al-sat işlemlerini yürüten yüksek performanslı yazılım. | `Python` `APIs` `Binance` | [GitHub](https://github.com/cumakaya0000) |
 | [🔌 **Arduino & IoT Entegrasyonları**](https://github.com/cumakaya0000) | ESP32, OLED ekranlar ve çeşitli çevresel sensörlerle donanım seviyesinde veri okuma ve kontrol projeleri. | `C++` `Arduino` `ESP32` | [GitHub](https://github.com/cumakaya0000) |
 | [🎵 **MyMusic (Cuma Music)**](https://github.com/cumakaya0000/mymusic) | Cihazınızdaki yerel müzik dosyalarını bulup arka planda oynatabilmenizi sağlayan, kullanıcı dostu bir mobil müzik çalar uygulaması. | `React Native` `Expo` `SQLite` | [GitHub](https://github.com/cumakaya0000/mymusic) |
-| [🎓 **DGS**](https://github.com/cumakaya0000/DGS) | DGS (Dikey Geçiş Sınavı) süreci, puan hesaplama veya çalışma takip projeleri. | `-` | [GitHub](https://github.com/cumakaya0000/DGS) |
+| [🎓 **DGS**](https://github.com/cumakaya0000/DGS) | DGS (Dikey Geçiş Sınavı) süreci, puan hesaplama veya çalışma takip projeleri. | `React Native` `Expo` `Supabase` `Zustand` | [GitHub](https://github.com/cumakaya0000/DGS) |
 
-
+<br/>
+<div align="center">
+  <a href="https://cumakaya.com/"><b>👉 Diğer çalışmaları görmek için tıkla 👈</b></a>
+</div>
 <br/>
 
 ## 🐍 Katkı Grafiğim
