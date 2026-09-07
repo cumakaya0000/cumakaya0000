@@ -72,7 +72,7 @@ Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım gel
 
 <br/>
 <div align="center">
-  <a href="https://cumakaya.com/"><b>👉 Diğer çalışmaları görmek için tıkla 👈</b></a>
+  <a href="https://cumakaya.com/calismalarim.html"><b>👉 Diğer çalışmaları görmek için tıkla 👈</b></a>
 </div>
 <br/>
 
