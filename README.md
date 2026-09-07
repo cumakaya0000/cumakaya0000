@@ -1,4 +1,4 @@
-<br/><br/>
+﻿<br/><br/>
 
 <div align="center">
 
@@ -21,11 +21,11 @@
 
 
 
-Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım geliştirme, <b>otomasyon sistemleri</b> ve <b>yapay zekâ</b> üzerine çalışıyorum.<br><br><b>C#</b>, <b>JavaScript</b>, <b>C++</b> ve <b>Arduino</b> ile projeler geliştiriyor; <b>arbitraj botları</b>, mikroişlemci sistemleri ve düşük seviye donanım müdahaleleriyle ilgileniyorum.<br><br>Sürekli öğrenen ve üreten bir geliştiriciyim.
+Ben <b>Cuma Kaya</b>, bilgisayar programcýlýðý öðrencisiyim. Yazýlým geliþtirme, <b>otomasyon sistemleri</b> ve <b>yapay zekâ</b> üzerine çalýþýyorum.<br><br><b>C#</b>, <b>JavaScript</b>, <b>C++</b> ve <b>Arduino</b> ile projeler geliþtiriyor; <b>arbitraj botlarý</b>, mikroiþlemci sistemleri ve düþük seviye donanýma müdahaleleriyle ilgileniyorum.<br><br>Sürekli öðrenen ve üreten bir geliþtiriciyim.
 
 <br/>
 
-## 💡 İlgilendiğim Alanlar
+## 💡 Ýlgilendiðim Alanlar
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack_Web_Geliştirme-FFFFFF?style=for-the-badge&logo=dotnet&logoColor=8B5CF6" />
@@ -47,7 +47,7 @@ Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım gel
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### ⚙️ Backend & Veritabanı
+### ⚙️ Backend & Veritabaný
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core" />
@@ -57,20 +57,21 @@ Ben <b>Cuma Kaya</b>, bilgisayar programcılığı öğrencisiyim. Yazılım gel
 </p>
 <br/>
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Öne Çýkan Projeler
 
-| Proje | Açıklama | Teknolojiler | Kod / Bağlantı |
+| Proje | Açýklama | Teknolojiler | Kod / Baðlantý |
 | :--- | :--- | :--- | :--- |
-| [📋 **İş Başvuru Portalı**](https://github.com/cumakaya0000/isbasvuruformu) | e-Devlet entegrasyonlu, SignalR real-time bildirimli ve aday başvuru/değerlendirme paneline sahip iş başvuru platformu. | `ASP.NET Core MVC` `SQL Server` `SignalR` | [GitHub](https://github.com/cumakaya0000/isbasvuruformu) |
-| [🍽️ **Restaurant CMS**](https://github.com/cumakaya0000/restorant) | Modüler dinamik yönetici paneline ve esnek tema sistemine sahip restoran içerik yönetim yazılımı. | `ASP.NET Web Forms` `SQL Server` | [GitHub](https://github.com/cumakaya0000/restorant) |
-| [📚 **Kişisel Öğrenme Portalı**](https://github.com/cumakaya0000/kisiselogrenmemataryeli) | Öğrenim materyalleri, ders notları, yazılım lisansları ve dosyaların yönetildiği kişisel kütüphane sistemi. | `ASP.NET Web Forms` `SQL Server` | [GitHub](https://github.com/cumakaya0000/kisiselogrenmemataryeli) |
-| [🤖 **Kripto Arbitraj Botu**](https://github.com/cumakaya0000) | Farklı borsalardaki anlık fiyat farklarını analiz ederek otomatik al-sat işlemlerini yürüten yüksek performanslı yazılım. | `Python` `APIs` `Binance` | [GitHub](https://github.com/cumakaya0000) |
-| [🔌 **Arduino & IoT Entegrasyonları**](https://github.com/cumakaya0000) | ESP32, OLED ekranlar ve çeşitli çevresel sensörlerle donanım seviyesinde veri okuma ve kontrol projeleri. | `C++` `Arduino` `ESP32` | [GitHub](https://github.com/cumakaya0000) |
+| [🎥 **Kick Otomatik Kaydedici & Yükleyici**](https://github.com/cumakaya0000/kick) | Kick canlý yayýnlarýný izleyip otomatik kaydeden, kestiðiniz videolarý YouTube'a otomatik yükleyen masaüstü otomasyon uygulamasý. | C# WPF FFmpeg YouTube API | [GitHub](https://github.com/cumakaya0000/kick) |
+| [📋 **Ýþ Baþvuru Portalý**](https://github.com/cumakaya0000/isbasvuruformu) | e-Devlet entegrasyonlu, SignalR real-time bildirimli ve aday baþvuru/deðerlendirme paneline sahip iþ baþvuru platformu. | ASP.NET Core MVC SQL Server SignalR | [GitHub](https://github.com/cumakaya0000/isbasvuruformu) |
+| [🍽️ **Restaurant CMS**](https://github.com/cumakaya0000/restorant) | Modüler dinamik yönetici paneline ve esnek tema sistemine sahip restoran içerik yönetim yazýlýmý. | ASP.NET Web Forms SQL Server | [GitHub](https://github.com/cumakaya0000/restorant) |
+| [📚 **Kiþisel Öðrenme Portalý**](https://github.com/cumakaya0000/kisiselogrenmemataryeli) | Öðrenim materyalleri, ders notlarý, yazýlým lisanslarý ve dosyalarýn yönetildiði kiþisel kütüphane sistemi. | ASP.NET Web Forms SQL Server | [GitHub](https://github.com/cumakaya0000/kisiselogrenmemataryeli) |
+| [🤖 **Kripto Arbitraj Botu**](https://github.com/cumakaya0000) | Farklý borsalardaki anlýk fiyat farklarýný analiz ederek otomatik al-sat iþlemlerini yürüten yüksek performanslý yazýlým. | Python APIs Binance | [GitHub](https://github.com/cumakaya0000) |
+| [🔌 **Arduino & IoT Entegrasyonlarý**](https://github.com/cumakaya0000) | ESP32, OLED ekranlar ve çeþitli çevresel sensörlerle donaným seviyesinde veri okuma ve kontrol projeleri. | C++ Arduino ESP32 | [GitHub](https://github.com/cumakaya0000) |
 
 
 <br/>
 
-## 🐍 Katkı Grafiği
+## 🐍 Katký Grafiðim
 
 <div align="center">
   <picture>
