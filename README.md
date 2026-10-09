@@ -21,7 +21,7 @@
 
 
 
-Ben <b>Cuma Kaya</b>, bilgisayar programcısıyım. Yazılım geliştirme, <b>otomasyon sistemleri</b> ve <b>yapay zekâ</b> üzerine çalışıyorum.<br><br><b>C#</b>, <b>JavaScript</b>, <b>C++</b> ve <b>Arduino</b> ile projeler geliştiriyor; <b>arbitraj botları</b>, mikroişlemci sistemleri ve düşük seviye donanıma müdahaleleriyle ilgileniyorum.<br><br>*“Her zaman yeni başlayan biriyim, bu yüzden öğrenmeye daha açığım.”*
+Ben <b>Cuma Kaya</b>, bilgisayar programcısıyım. Web ve masaüstü programları geliştiriyorum , yanı sırada bilgisayar mimarisini  araştırıp blog hesabımda paylaşıyorum.<br>*“Her zaman yeni başlayan biriyim, bu yüzden öğrenmeye daha açığım.”*
 
 <br/>
 
@@ -29,7 +29,6 @@ Ben <b>Cuma Kaya</b>, bilgisayar programcısıyım. Yazılım geliştirme, <b>ot
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack_Web_Geliştirme-FFFFFF?style=for-the-badge&logo=dotnet&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Mobil_Uygulama_Geliştirme-FFFFFF?style=for-the-badge&logo=expo&logoColor=8B5CF6" />
   <img src="https://img.shields.io/badge/Masaüstü_Program_Geliştirme-FFFFFF?style=for-the-badge&logo=windows&logoColor=8B5CF6" />
   <img src="https://img.shields.io/badge/Bilgisayar_Donanımları_%26_IoT-FFFFFF?style=for-the-badge&logo=arduino&logoColor=8B5CF6" />
 </p>
